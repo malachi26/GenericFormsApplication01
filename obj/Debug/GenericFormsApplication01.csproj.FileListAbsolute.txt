@@ -1,0 +1,8 @@
+c:\work\visual studio 2013\Projects\GenericFormsApplication01\GenericFormsApplication01\bin\Debug\GenericFormsApplication01.exe.config
+c:\work\visual studio 2013\Projects\GenericFormsApplication01\GenericFormsApplication01\bin\Debug\GenericFormsApplication01.exe
+c:\work\visual studio 2013\Projects\GenericFormsApplication01\GenericFormsApplication01\bin\Debug\GenericFormsApplication01.pdb
+c:\work\visual studio 2013\Projects\GenericFormsApplication01\GenericFormsApplication01\obj\Debug\GenericFormsApplication01.csprojResolveAssemblyReference.cache
+c:\work\visual studio 2013\Projects\GenericFormsApplication01\GenericFormsApplication01\obj\Debug\GenericFormsApplication01.Properties.Resources.resources
+c:\work\visual studio 2013\Projects\GenericFormsApplication01\GenericFormsApplication01\obj\Debug\GenericFormsApplication01.csproj.GenerateResource.Cache
+c:\work\visual studio 2013\Projects\GenericFormsApplication01\GenericFormsApplication01\obj\Debug\GenericFormsApplication01.exe
+c:\work\visual studio 2013\Projects\GenericFormsApplication01\GenericFormsApplication01\obj\Debug\GenericFormsApplication01.pdb
